@@ -16,10 +16,20 @@ SmokerMirror la aplicación para tus IAs Locales con Ollama
 Instaladores:
 
 📱 Teléfono Android	SmokeMirror_v1.apk	📱
+
+
 💻 Linux (Ubuntu, Mint, Debian)	SmokeMirror_v1_amd64.deb	🐧
+
+
 💻 Linux (Fedora, CentOS, RHEL)	SmokeMirror-v1.x86_64.rpm	🐧
+
+
 💻 Linux (cualquiera, sin instalar)	SmokeMirror_v1_amd64.AppImage	🐧
+
+
 🪟 Windows (instalador normal)	SmokeMirror_v1_x64-setup.exe	🪟
+
+
 🪟 Windows (instalador profesional)	SmokeMirror_v1_x64.msi	🪟
 
 
