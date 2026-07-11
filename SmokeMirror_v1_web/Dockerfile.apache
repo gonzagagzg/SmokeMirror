@@ -1,0 +1,5 @@
+FROM httpd:alpine
+COPY . /usr/local/apache2/htdocs/
+RUN sed -i '/LoadModule rewrite_module/s/^#//g' /usr/local/apache2/conf/httpd.conf \
+    && sed -i '/<Directory "\/usr\/local\/apache2\/htdocs">/,/<\/Directory>/s/AllowOverride None/AllowOverride All/' /usr/local/apache2/conf/httpd.conf
+EXPOSE 80
