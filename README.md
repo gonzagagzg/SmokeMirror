@@ -13,6 +13,8 @@
       ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
 
 SmokerMirror la aplicación para tus IAs Locales con Ollama
+
+
 Instaladores:
 
 📱 Teléfono Android	SmokeMirror_v1.apk	📱
