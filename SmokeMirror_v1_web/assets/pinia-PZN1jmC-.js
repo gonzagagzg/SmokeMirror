@@ -1,0 +1,1 @@
+import{o as e}from"./index-DpyioVb4.js";var t=({app:t})=>{t.use(e())};export{t as default};
